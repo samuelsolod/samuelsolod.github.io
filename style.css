@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sam Solod | Astrophysics Research</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Sam Solod</h1>
+    <p>Astrophysics Researcher | Caltech SURF | Northwestern CIERA REU</p>
+  </header>
+
+  <nav>
+    <a href="#research">Research</a> |
+    <a href="#cv">CV</a> |
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="research">
+    <h2>Research Interests</h2>
+    <p>My research focuses on accretion physics, GRMHD simulations, and adaptive mesh refinement techniques in numerical relativity...</p>
+  </section>
+
+  <section id="cv">
+    <h2>Curriculum Vitae</h2>
+    <p><a href="Sam_Solod_CV.pdf" target="_blank">Download my CV (PDF)</a></p>
+  </section>
+
+  <section id="experience">
+    <h2>Research Experience</h2>
+    <ul>
+      <li><b>Caltech SURF (2025)</b> — Optimal mesh refinement for numerical relativity simulations.</li>
+      <li><b>Northwestern CIERA REU (2024)</b> — GRMHD simulations of accretion disks around black holes.</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:samuelsolod@gmail.com">samuelsolod@gmail.com</a></p>
+    <p>GitHub: <a href="https://github.com/samuelsolod">@samuelsolod</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Sam Solod</p>
+  </footer>
+</body>
+</html>
+
